@@ -132,7 +132,8 @@ void valaszt()
 }
 
 //3. a
-//Megnezzuk, hogy a tombben 
+//Megszamoljuk, hogy a sorozatban a 0-sok kozott hany egyes van. Ezeket egy tombbe felirjuk, es kozben nezzuk hogy melyik a legnagyobb szam ezek kozul, illetve hogy melyik a legnagyobb ket egymas melletti sorozat osszege.
+//Ezutan osszemerjuk a legnagyobb sorozat, es legnagyobb osszeg ertekeit, es asszerint kiirjuk a valaszt.
 
 //b.
 void lopikula()
