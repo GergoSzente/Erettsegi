@@ -63,8 +63,17 @@ int f(int x,int y)
 x=1,    5,  25
 y=1000, 200,40,
 
-//3. 
+//3.
+struct fem
+{
+  int pret;
+  char denumire[30];
+};
+  
 struct bijuterie
-  {
-    
-  }
+{
+  int greutate;
+  fem metal;
+};
+
+bijuterie b;
