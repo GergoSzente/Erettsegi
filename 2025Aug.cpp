@@ -6,7 +6,7 @@
 //5. b?
 
 //II Tetel
-//a. NU 11 5
+//a. NU 11 5 ?hiba
 //b. 80, 17
 //c.
 
